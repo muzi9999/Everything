@@ -1,0 +1,24 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "Node.js 测试模块()\u001b[Dwww.runoob.com\u001b[)",
+  "main": "helloworld.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/runboob/runoob.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/runboob/runoob/issues"
+  },
+  "homepage": "https://github.com/runboob/runoob#readme"
+}
