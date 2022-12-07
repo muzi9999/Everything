@@ -4,7 +4,7 @@
   "description": "Node.js 测试模块()\u001b[Dwww.runoob.com\u001b[)",
   "main": "helloworld.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {},
   "scripts": {
